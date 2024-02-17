@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shivammishra03&label=Profile%20views&color=0e75b6&style=flat" alt="coding" /> </p>
 
-- 🔭 I’m currently working on **Vue.js & Nuxt.js**
+- 🔭 I’m currently working on **JavaScript Vue.js & Nuxt.js**
 
 - 🌱 I’m currently learning **WebSocket API**
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 🤝 I’m looking for help with **Node.js & MongoDb**
+- 🤝 I’m looking for help with **Node.js & MongoDB**
 
 - 💬 Ask me about **JavaScript, Vue.js, Nuxt**
 
