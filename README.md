@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shivammishra03&label=Profile%20views&color=0e75b6&style=flat" alt="coding" /> </p>
 
-- 🔭 I’m currently working on **JavaScript Vue.js & Nuxt.js**
+- 🔭 I’m currently working on **JavaScript, React.js, Vue.js & Nuxt.js**
 
 - 🌱 I’m currently learning **WebSocket API**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Node.js & MongoDB**
 
-- 💬 Ask me about **JavaScript, Vue.js, Nuxt**
+- 💬 Ask me about **Vue.js, Nuxt.js, React.js, JavaScript**
 
 - 📫 How to reach me **shivammishra221310@gmail.com**
 
