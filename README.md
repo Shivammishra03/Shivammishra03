@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **JavaScript, React.js, Vue.js & Nuxt.js**
 
-- 🌱 I’m currently learning **WebSocket API**
+- 🌱 I’m currently learning **WebSocket API & Node.js & MongoDB**
 
 - 👯 I’m looking to collaborate on **Projects**
 
